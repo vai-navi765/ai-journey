@@ -1,0 +1,6 @@
+Artificial Intelligence is the future
+Machine Learning is the part of Artificial Intelligence
+Deep Learning is the part of Machine Learning 
+Neural Network are used in Deep Learning
+Claude ia a LLM Model
+Given by ANTHROPIC in year 2023
