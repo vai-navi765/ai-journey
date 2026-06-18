@@ -1,7 +1,5 @@
 # AI Journey - Vaishnavi Soni
 
-## ABOUT ME
-My name is Vaishnavi Soni. I am 18 years old from Chhatarpur, Madhya Pradesh. I hve a science background (PCB) and I am on a self-directed gap year teching myself AI and programming fro scratch with the extreme goal of building my own business and achieving financial independence.
 
 ## What This Repository Is
 This is my public record of a 90 day AI learning roadmap - from absolute zero to building AI applictions.
