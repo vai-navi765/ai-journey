@@ -1,16 +1,16 @@
 # AI Journey - Vaishnavi Soni
 
 ## ABOUT ME
-My name is Vaishnavi Soni. I am 18 years old from Chhatarpur, Madhya Pradesh. I have a science background (PCB) and I am on a self-directed gap year teaching myself AI and programming from scratch with the extreme goal of building my own business and achieving financial independence.
+My name is Vaishnavi Soni. I am 18 years old from Chhatarpur, Madhya Pradesh. I have a science background (PCB) and I am on a self-directed gap year teaching myself AI and programming from scratch with the ultimate goal of building my own business and achieving financial independence.
 
 ## What This Repository Is
-This is my public record of a 90 day AI learning roadmap - from absolute zero to building AI applictions.
+This is my public record of a 90 day AI learning roadmap - from absolute zero to building AI applications.
 Every day I learn , build, and push real code here. 
 
 ## What I Have Learned So Far
 - Day 1: What LLMs are, how training works, tokens, parameters, base models vs fine-tuned models.
 - Day 2: Python basics - variables, loops, functions, FizzBuzz from scratch.
-- Day 3: Lists, dictiomaries, strings and accessing data.
+- Day 3: Lists, dictionaries, strings and accessing data.
 - Day 4: File reading, error handling, word frequency counter.
 - Day 5: NumPy - arrays, matrix multiplication, vectorization.
 - Day 6: Pandas - DataFrames, filtering, missing data, statistical analysis.
