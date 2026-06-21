@@ -1,0 +1,6 @@
+Name: Vaishnavi Soni,
+Email: navisoni16y@gmail.com,
+Skills: Python, NumPy, Pandas, Matplotlib, Data Analysis
+Experience: 0 years
+Education: 12th pass - PCB Stream
+Location: Chhatarpur, Madhya Pradesh.
